@@ -1,3 +1,0 @@
-#Luke Matheny
-
-| Home | Projects |
