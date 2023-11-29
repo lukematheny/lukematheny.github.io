@@ -9,18 +9,18 @@ I’ve been part of the niche speedsliding community, and all the good slide puz
 In the span of the two weeks between my internship and the fall semester of school, I built the entire machine, having to learn how to solder electrical connections and design schematics based on part datasheets. Waiting for parts to be shipped, I programmed the puzzle from scratch, itching to debug the code when I could finally test it.
 
 <div class="slideman">
-    <div style="float:left;">
+    <div style="clear: both;float:left;">
         <img src="images/image.png" alt="Slideman autopsy" width="300"/>
     </div>
-    <div style="float:left;">
+    <div style="clear: both;float:left;">
         <img src="images/solid.png" alt="" width="500"/>
     </div>
-    <div style="float:left;">
+    <div style="clear: both;float:left;">
          <video width="320" controls>
             <source src="images/slide.mp4" type="video/mp4">
         </video>
     </div>
-    <div style="float:right;">
+    <div style="clear: both;float:left;">
         <img src="images/works.jpg" alt="" width="250"/>
     </div>
 </div>

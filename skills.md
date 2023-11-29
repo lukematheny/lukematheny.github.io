@@ -9,5 +9,6 @@
 | Concepts | Semiconductor device fundamentals (Material property courses), Data analysis, DSP |
 | Soft Skills | Assembling and directing teams of people (Energy Club Projects, Conference Team), Assessing and teaching skills |
 
-### Career Timeline
+### Career Trajectory
 
+- Abiding by all I believe in (from [Home Page](index.md)), I aim early in my career to be involved with 
