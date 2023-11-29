@@ -2,7 +2,7 @@
 
 | [Home](index.html) | [Projects](projects.html) | [Resumé](resume.html) |
   
-  
+<br>
 I'm a 3rd year Electrical Engineering student at Georgia Tech.
 
 ### Bio
