@@ -1,3 +1,5 @@
 ## Projects
 
-| [Home](index.html) | [Projects](projects.html) | [Resumé](resume.html) | [Skills/Passions](skills.html) |
+| [Home](index.md) | [Projects](projects.md) | [Resumé](resume.md) | [Skills/Passions](skills.md) |
+
+![Image](image.jpg)

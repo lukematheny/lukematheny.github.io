@@ -1,14 +1,14 @@
 ## Home
 
-| [Home](index.html) | [Projects](projects.html) | [Resumé](resume.html) | [Skills/Passions](skills.html) |
-  
-<br>
+| [Home](index.md) | [Projects](projects.md) | [Resumé](resume.md) | [Skills/Passions](skills.md) |
 
 I'm a 3rd year Electrical Engineering student at Georgia Tech.  
 Check out this website to get to know me and how I could take part in your engineering team!
 
 ### Some things about me
-1. 
+1. Materials Science is my undergraduate minor.
+2. I'm interested in everything to do with energy. I am president of the GT Energy Club and have done battery research in materials science.
+3. 
 
 ### Some things I believe
 1.	People should build things.
@@ -26,6 +26,5 @@ Check out this website to get to know me and how I could take part in your engin
 13.	The long-term equilibrium of electric power distribution is far from our existing centralized grid. Utilities will not find this equilibrium on their own, and we must weaken utility monopolies to achieve it.
 14.	It is possible and favorable to create extreme abundance of material goods and wealth for everyone on earth. Innovation, manufacturing, and policy all must be leveraged quickly to get there faster.
 15.	Everyone can do more than they think they can. The vast majority of limits are self-imposed.
-
 
 ### Summary

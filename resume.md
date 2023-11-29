@@ -1,6 +1,6 @@
 ## Resumé
 
-| [Home](index.html) | [Projects](projects.html) | [Resumé](resume.html) | [Skills/Passions](skills.html) |
+| [Home](index.md) | [Projects](projects.md) | [Resumé](resume.md) | [Skills/Passions](skills.md) |
 
 
 <embed src="/LukeMatheny_Resume.pdf" width="1000" height="1200" 
