@@ -23,7 +23,7 @@ Finally, the project involved creating a non-Arduino implementation, which can b
 The schematic for the board was made painstakingly over hours using KiCAD. I created my own footprints, combed through datasheets, and cross-referenced parts on JLCPCB to ensure the board could be built by my manufacturer.
 
 <img src="images/slideman.png" alt="breadboard" width="300"/>
-<img src="images/pcb.png" alt="pcb" width="300"/>
+<img src="images/pcb.png" alt="pcb" width="600"/>
 
 ### Collapsible/Portable Solar Array
 
@@ -48,7 +48,7 @@ The data collected from the Arduino was separate from the rest of the battery da
 In my internship last summer, one of the problems I realized existed on the factory floor was the lack of communication between floor workers and the floor leads. This would be made faster, enabling other improvements, if the Andon light colors were visible on lead computers and in real life as opposed to just real life. The only existing option were $375 ethernet-connected lights, so I created, using an Arduino Nano, a Python program that could intake a simple button click and send the signal to the Andon light, and wherever else the information needed to go - even across the entire factory.
 
 <video width="500" controls>
-    <source src="images/internship.mov" type="video/mov">
+    <source src="images/internship.mov" type="video/mp4">
 </video>
 
 ### Classic Ciphers (Python)
