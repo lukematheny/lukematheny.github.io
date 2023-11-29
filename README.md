@@ -1,3 +1,1 @@
-# Luke Matheny
 
-| Home | Projects |
