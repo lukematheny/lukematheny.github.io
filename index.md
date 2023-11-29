@@ -30,3 +30,7 @@ Check out this website to get to know me and how I could take part in your engin
 15.	Everyone can do more than they think they can. The vast majority of limits are self-imposed.
 
 ### Summary
+Eager Electrical Engineering major with a knack for voluntarily launching projects, showcasing a drive that extends beyond the
+classroom. Versatile skills in prototyping and design (electronics, programming, CAD – fast-learner). Communication skills have
+drastically increased since becoming the leader of Georgia Tech’s Energy Club, managing four teams of student engineers and
+event organizers. Seeking an internship in electrical engineering for Summer 2024.
