@@ -8,7 +8,8 @@ Check out this website to get to know me and how I could take part in your engin
 ### Some things about me
 1. Materials Science is my undergraduate minor.
 2. I'm interested in everything to do with energy. I am president of the GT Energy Club and have done battery research in materials science.
-3. 
+3. I love building electronic hardware.
+4. I grew up in Wake Forest, North Carolina.
 
 ### Some things I believe
 1.	People should build things.
