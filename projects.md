@@ -15,6 +15,7 @@ In the span of the two weeks between my internship and the fall semester of scho
     <div style="float:left;">
         <img src="images/solid.png" alt="" width="300"/>
     </div>
+    <br>
     <div style="float:left;">
          <video width="320" controls>
             <source src="images/slide.mp4" type="video/mp4">
