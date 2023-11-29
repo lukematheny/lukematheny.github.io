@@ -10,10 +10,10 @@ In the span of the two weeks between my internship and the fall semester of scho
 
 <img src="images/image.png" alt="Slideman autopsy" width="300"/>
 <img src="images/solid.png" alt="" width="500"/>
+<img src="images/works.jpg" alt="" width="250"/>
 <video width="320" controls>
     <source src="images/slide.mp4" type="video/mp4">
 </video>
-<img src="images/works.jpg" alt="" width="250"/>
 
 
 With my knowledge of Solidworks and 3D printing, I designed a chassis with perfect tolerances to secure the circuit board in place and accommodate every feature of the final design.​
@@ -43,7 +43,11 @@ The data collected from the Arduino was separate from the rest of the battery da
 
 ### Andon Light Electronic Update System
 
-In my internship last summer
+In my internship last summer, one of the problems I realized existed on the factory floor was the lack of communication between floor workers and the floor leads. This would be made faster, enabling other improvements, if the Andon light colors were visible on lead computers and in real life as opposed to just real life. The only existing option were $375 ethernet-connected lights, so I created, using an Arduino Nano, a Python program that could intake a simple button click and send the signal to the Andon light, and wherever else the information needed to go - even across the entire factory.
+
+<video width="500" controls>
+    <source src="images/internship.mov" type="video/mov">
+</video>
 
 ### Classic Ciphers (Python)
 
