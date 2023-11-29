@@ -30,7 +30,9 @@ Check out this website to get to know me and how I could take part in your engin
 15.	Everyone can do more than they think they can. The vast majority of limits are self-imposed.
 
 ### Summary
-I am a person who sets high goals for myself. I love to build cool things, and I focus on building good taste of what to build so that I can be truly satisfied with the things I make. The passion that drives me originates in building truly sustainable and efficient things and places, and I aim my sights at the places where I can make the most impact. Further, 2023 has been the greatest year for me in terms of developing as and engineer and as a communicator/leader.
+I set high goals for myself, and I love to build cool things. I focus on building good taste of what to build so that I can be truly satisfied with the things I make. The passion that drives me originates in building truly sustainable and efficient things and places, looking to the core of the problems so I can know where to make the most impact.  
+Further, 2023 has been the greatest year for me in terms of developing as and engineer and as a communicator/leader. I've been the president of the GT Energy Club since January, organized the club's Energy Conference for this year, recruited team members to work on various projects, and worked in my first internship over the Summer.
 
 ### Contact Info
 Email: [lukepatrick44@gmail.com](mailto:lukepatrick44@gmail.com)
+Phone: (919) 604-4481
