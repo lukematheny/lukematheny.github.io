@@ -14,16 +14,20 @@ In the span of the two weeks between my internship and the fall semester of scho
     <source src="images/slide.mp4" type="video/mp4">
 </video>
 <img src="images/works.jpg" alt="" width="250"/>
-<img src="images/slideman.png" alt="breadboard" width="500"/>
 
 
 With my knowledge of Solidworks and 3D printing, I designed a chassis with perfect tolerances to secure the circuit board in place and accommodate every feature of the final design.​
+
+Finally, the project involved creating a non-Arduino implementation, which can be seen in the breadboard image. This involved learning C and the STM32CubeIDE to build the project, and installing and modifying drivers to run the display. What you see in the PCB image below is an STM32 processor unit, which I put on a custom board. This diverges from Arduino majorly. The code, IDE, and general development environment is what I'd use in a professional environment.
+
+<img src="images/slideman.png" alt="breadboard" width="300"/>
+<img src="images/pcb.png" alt="pcb" width="300"/>
 
 ### Collapsible/Portable Solar Array
 
 This project, done during Spring and Fall 2023, was done with a team of student engineers I recruited and directed so we could build a mechanical structure housing joints that allow the four 100-W solar panels to join together on a hand truck.
 
-This project involved both mechanical and electrical design, as can be seen, which is part of my journey to 
+This project involved both mechanical and electrical design, as can be seen, which is part of my journey to have competence in electrical, software, and mechanical systems, because that's where the most progress can be made.
 
 <img src="images/solar.jpg" alt="Solar array" width="500"/>
 
@@ -36,6 +40,10 @@ I found thermocouple units online, and to organize them and the Arduino for temp
 The data collected from the Arduino was separate from the rest of the battery data, so I had to use Python to generate the desired data, merge the instances together, accounting for time mismatch, and get useful results by data visualization.​
 
 <img src="images/temptest.png" alt="Temperature tester" width="500"/>
+
+### Andon Light Electronic Update System
+
+In my internship last summer
 
 ### Classic Ciphers (Python)
 
