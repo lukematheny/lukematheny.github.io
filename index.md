@@ -6,11 +6,11 @@ I'm a 3rd year Electrical Engineering student at Georgia Tech.
 Check out this website to get to know me and how I could take part in your engineering team!
 
 ### Some things about me
-1. Materials Science is my undergraduate minor.
-2. I'm interested in everything to do with energy. I am president of the GT Energy Club and have done battery research in materials science before.
-3. I love building electronic hardware.
-4. I grew up in Wake Forest, North Carolina.
-5. 
+- I'm interested in everything to do with energy. I am president of the GT Energy Club and have done battery research in materials science before.
+- Materials Science is my undergraduate minor.
+- I love building electronic hardware.
+- I grew up in Wake Forest, North Carolina.
+- 
 
 ### Some things I believe
 1.	People should build things.
