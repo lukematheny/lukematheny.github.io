@@ -27,7 +27,7 @@ Check out this website to get to know me and how I could take part in your engin
 12.	Nuclear power is the best long-term centralized complement to solar power, and we will need both.
 13.	The long-term equilibrium of electric power distribution is far from our existing centralized grid. Utilities will not find this equilibrium on their own, and we must weaken utility monopolies to achieve it.
 14.	It is possible and favorable to create extreme abundance of material goods and wealth for everyone on earth. Innovation, manufacturing, and policy all must be leveraged quickly to get there faster.
-15.	Everyone can do more than they think they can. The vast majority of limits are self-imposed.
+15.	Everyone can do more than they think they can. Our limits are self-imposed.
 
 ### Summary
 I set high goals for myself, and I love to build cool things. I focus on building good taste of what to build so that I can be truly satisfied with the things I make. The passion that drives me originates in building truly sustainable and efficient things and places, looking to the core of the problems so I can know where to make the most impact.  
