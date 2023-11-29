@@ -20,6 +20,8 @@ With my knowledge of Solidworks and 3D printing, I designed a chassis with perfe
 
 Finally, the project involved creating a non-Arduino implementation, which can be seen in the breadboard image. This involved learning C and the STM32CubeIDE to build the project, and installing and modifying drivers to run the display. What you see in the PCB image below is an STM32 processor unit, which I put on a custom board. This diverges from Arduino majorly. The code, IDE, and general development environment is what I'd use in a professional environment.
 
+The schematic for the board was made painstakingly over hours using KiCAD. I created my own footprints, combed through datasheets, and cross-referenced parts on JLCPCB to ensure the board could be built by my manufacturer.
+
 <img src="images/slideman.png" alt="breadboard" width="300"/>
 <img src="images/pcb.png" alt="pcb" width="300"/>
 
