@@ -22,7 +22,7 @@ Finally, the project involved creating a non-Arduino implementation, which can b
 
 The schematic for the board was made painstakingly over hours using KiCAD. I created my own footprints, combed through datasheets, and cross-referenced parts on JLCPCB to ensure the board could be built by my manufacturer.
 
-<img src="images/slideman.png" alt="breadboard" width="400"/>
+<img src="images/slideman.png" alt="breadboard" width="300"/>
 <img src="images/pcb.png" alt="pcb" width="600"/>
 
 ### Collapsible/Portable Solar Array
