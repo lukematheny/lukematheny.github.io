@@ -3,5 +3,5 @@
 | [Home](index.html) | [Projects](projects.html) | [Resumé](resume.html) |
 
 
-<embed src="/LukeMatheny_Resume.pdf" width="500" height="375" 
+<embed src="/LukeMatheny_Resume.pdf" width="1000" height="1500" 
  type="application/pdf">
