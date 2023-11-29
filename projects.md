@@ -8,7 +8,19 @@ I’ve been part of the niche speedsliding community, and all the good slide puz
 
 In the span of the two weeks between my internship and the fall semester of school, I built the entire machine, having to learn how to solder electrical connections and design schematics based on part datasheets. Waiting for parts to be shipped, I programmed the puzzle from scratch, itching to debug the code when I could finally test it.
 
-<img src="images/image.png" alt="Slideman autopsy" width="300"/>
+<div class="slideman">
+    <div class="imgContainer">
+        <img src="/images/image.png" alt="Slideman autopsy" width="300"/>
+    </div>
+    <div class="imgContainer">
+        <img src="/images/tv.gif" alt="" width="200"/>
+    </div>
+    <div class="imgContainer">
+         <video width="320" height="240" controls>
+            <source src="video.mov" type="video/mp4">
+        </video>
+    </div>
+</div>
 
 With my knowledge of Solidworks and 3D printing, I designed a chassis with perfect tolerances to secure the circuit board in place and accommodate every feature of the final design.​
 
@@ -21,3 +33,9 @@ I found thermocouple units online, and to organize them and the Arduino for temp
 The data collected from the Arduino was separate from the rest of the battery data, so I had to use Python to generate the desired data, merge the instances together, accounting for time mismatch, and get useful results by data visualization.​
 
 <img src="images/temptest.png" alt="Temperature tester" width="500"/>
+
+### Classic Ciphers (Python)
+
+To improve my ability to program, I created a Caesar cipher in Python, a project which sparked, on top of creating 36 other classical ciphers, a failsafe user interface to navigate between all the ciphers and functions I created.​
+
+Continuing the project, I added more functionalities like predicting the correct English decipherment when given a set of options. I wanted to better the UI and switched to creating an HTML layout, where I learned jQuery and CSS to make a more intuitive design.​
