@@ -10,7 +10,7 @@ Check out this website to get to know me and how I could take part in your engin
 - Materials Science is my undergraduate minor.
 - I love building electronic hardware.
 - I grew up in Wake Forest, North Carolina.
-- 
+- I'm pursuing energy systems and circuit technology threads in my ECE major.
 
 ### Some things I believe
 1.	People should build things.
