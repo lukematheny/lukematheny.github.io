@@ -1,15 +1,14 @@
 ## Home
 
-| [Home](index.html) | [Projects](projects.html) | [Resumé](resume.html) |
+| [Home](index.html) | [Projects](projects.html) | [Resumé](resume.html) | [Skills/Passions](skills.html) |
   
 <br>
-I'm a 3rd year Electrical Engineering student at Georgia Tech.
 
-### Bio
-
+I'm a 3rd year Electrical Engineering student at Georgia Tech.  
+Check out this website to get to know me and how I could take part in your engineering team!
 
 ### Some things about me
-
+1. 
 
 ### Some things I believe
 1.	People should build things.

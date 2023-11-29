@@ -1,3 +1,3 @@
 ## Projects
 
-| [Home](index.html) | [Projects](projects.html) | [Resumé](resume.html) |
+| [Home](index.html) | [Projects](projects.html) | [Resumé](resume.html) | [Skills/Passions](skills.html) |
