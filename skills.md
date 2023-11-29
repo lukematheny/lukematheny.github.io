@@ -11,9 +11,13 @@
 
 ### Career Trajectory
 
+#### Short-term:
 - Abiding by all I believe in (from [Home Page](index.md)), I aim early in my career to be involved with not only electrical engineering but mechanical and manufacturing engineering as well. Working on hardware helps me get there.
-- I aim to learn more about esoteric manufacturing techniques, especially those involving semiconductor manufacturing.
 - Graduating Fall of 2025, I plan to have two more internships before then, one for each Summer.
+
+#### Long-term:
+- I aim to learn more about esoteric manufacturing techniques, especially those involving semiconductor manufacturing.
+- I'd be disappointed in myself if I didn't have several-year stints at both manufacturing companies and microgrid companies.
 
 #### How I'm getting there
 1. Reaching out more to network with people interested in hardware and energy in my space.
