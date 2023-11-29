@@ -10,17 +10,21 @@ In the span of the two weeks between my internship and the fall semester of scho
 
 <div class="slideman">
     <div style="float:left;">
-        <img src="/images/image.png" alt="Slideman autopsy" width="300"/>
+        <img src="images/image.png" alt="Slideman autopsy" width="300"/>
     </div>
     <div style="float:left;">
-        <img src="/images/tv.gif" alt="" width="200"/>
+        <img src="images/solid.png" alt="" width="300"/>
     </div>
     <div style="float:left;">
-         <video width="320" height="240" controls>
-            <source src="video.mov" type="video/mp4">
+         <video width="320" controls>
+            <source src="images/slide.mp4" type="video/mp4">
         </video>
     </div>
+    <div style="float:left;">
+        <img src="images/works.jpg" alt="" width="250"/>
+    </div>
 </div>
+<br>
 
 With my knowledge of Solidworks and 3D printing, I designed a chassis with perfect tolerances to secure the circuit board in place and accommodate every feature of the final design.​
 
@@ -42,7 +46,7 @@ Continuing the project, I added more functionalities like predicting the correct
 
 <div class="ciphers">
     <div style="float:left;">
-        <img src="/images/ui.png" alt="UI" width="300"/>
+        <img src="images/ui.png" alt="UI" width="300"/>
     </div>
     <div style="float:left;">
          <video width="320" controls>
@@ -50,3 +54,4 @@ Continuing the project, I added more functionalities like predicting the correct
         </video>
     </div>
 </div>
+<br>
