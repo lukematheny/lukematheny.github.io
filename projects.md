@@ -14,9 +14,18 @@ In the span of the two weeks between my internship and the fall semester of scho
     <source src="images/slide.mp4" type="video/mp4">
 </video>
 <img src="images/works.jpg" alt="" width="250"/>
+<img src="images/slideman.png" alt="breadboard" width="500"/>
 
 
 With my knowledge of Solidworks and 3D printing, I designed a chassis with perfect tolerances to secure the circuit board in place and accommodate every feature of the final design.​
+
+### Collapsible/Portable Solar Array
+
+This project, done during Spring and Fall 2023, was done with a team of student engineers I recruited and directed so we could build a mechanical structure housing joints that allow the four 100-W solar panels to join together on a hand truck.
+
+This project involved both mechanical and electrical design, as can be seen, which is part of my journey to 
+
+<img src="images/solar.jpg" alt="Solar array" width="500"/>
 
 ### Battery Temperature Data Collection
 

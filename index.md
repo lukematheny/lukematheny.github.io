@@ -16,7 +16,7 @@ Check out this website to get to know me and how I could take part in your engin
 1.	People should build things.
 2.	The ideal builder should have mastery of electrical engineering, mechanical engineering, and manufacturing. The best engineers understand the full vertical stack of whatever they build.
 3.	Everyone should do a lot more to improve their taste and curate their information intake according to it.
-4.	Artists should play not to the gallery but to themselves. An artist’s own taste is far more potent for creating great art than an artist’s assumption of the taste of others.
+4.	Builders and artists should make what they think is cool. An artist’s own taste is far more potent for creating great art than an artist’s assumption of the taste of others.
 5.	The best next-action for a builder is usually obvious in some way. Seeing it requires taste and an open mind, not more data points. More often than not, data tells the decision-maker a hundred different wrong stories.
 6.	Increasing the amount of meaningful marginal wealth for the greatest number of people is the most important trajectory of civilization.
 7.	Improvement of manufacturing is core to increasing the wealth of the most people. On average, working with atoms is far more important than working with bits.
