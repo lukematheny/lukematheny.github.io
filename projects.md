@@ -13,15 +13,14 @@ In the span of the two weeks between my internship and the fall semester of scho
         <img src="images/image.png" alt="Slideman autopsy" width="300"/>
     </div>
     <div style="float:left;">
-        <img src="images/solid.png" alt="" width="300"/>
+        <img src="images/solid.png" alt="" width="500"/>
     </div>
-    <br>
     <div style="float:left;">
          <video width="320" controls>
             <source src="images/slide.mp4" type="video/mp4">
         </video>
     </div>
-    <div style="float:left;">
+    <div style="float:right;">
         <img src="images/works.jpg" alt="" width="250"/>
     </div>
 </div>
@@ -47,10 +46,10 @@ Continuing the project, I added more functionalities like predicting the correct
 
 <div class="ciphers">
     <div style="float:left;">
-        <img src="images/ui.png" alt="UI" width="300"/>
+        <img src="images/ui.png" alt="UI" width="500"/>
     </div>
     <div style="float:left;">
-         <video width="320" controls>
+         <video width="520" controls>
             <source src="images/demo.mp4" type="video/mp4">
         </video>
     </div>
