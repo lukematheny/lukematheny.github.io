@@ -34,5 +34,5 @@ I set high goals for myself, and I love to build cool things. I focus on buildin
 Further, 2023 has been the greatest year for me in terms of developing as and engineer and as a communicator/leader. I've been the president of the GT Energy Club since January, organized the club's Energy Conference for this year, recruited team members to work on various projects, and worked in my first internship over the Summer.
 
 ### Contact Info
-Email: [lukepatrick44@gmail.com](mailto:lukepatrick44@gmail.com)
+Email: [lukepatrick44@gmail.com](mailto:lukepatrick44@gmail.com)  
 Phone: (919) 604-4481
