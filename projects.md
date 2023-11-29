@@ -46,10 +46,10 @@ Continuing the project, I added more functionalities like predicting the correct
 
 <div class="ciphers">
     <div style="float:left;">
-        <img src="images/ui.png" alt="UI" width="500"/>
+        <img src="images/ui.png" alt="UI" width="480"/>
     </div>
     <div style="float:left;">
-         <video width="520" controls>
+         <video width="500" controls>
             <source src="images/demo.mp4" type="video/mp4">
         </video>
     </div>
