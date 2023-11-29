@@ -18,4 +18,4 @@
 #### How I'm getting there
 1. Reaching out more to network with people interested in hardware and energy in my space.
 2. Joining an energy systems engineering lab (Spring 2024).
-3. 
+3. Being more active at career fairs and events.
