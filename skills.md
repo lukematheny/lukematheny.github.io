@@ -11,4 +11,11 @@
 
 ### Career Trajectory
 
-- Abiding by all I believe in (from [Home Page](index.md)), I aim early in my career to be involved with 
+- Abiding by all I believe in (from [Home Page](index.md)), I aim early in my career to be involved with not only electrical engineering but mechanical and manufacturing engineering as well. Working on hardware helps me get there.
+- I aim to learn more about esoteric manufacturing techniques, especially those involving semiconductor manufacturing.
+- Graduating Fall of 2025, I plan to have two more internships before then, one for each Summer.
+
+#### How I'm getting there
+1. Reaching out more to network with people interested in hardware and energy in my space.
+2. Joining an energy systems engineering lab (Spring 2024).
+3. 
