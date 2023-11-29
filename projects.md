@@ -1,3 +1,3 @@
-# Projects Page
+## Projects
 
 | [Home](index.html) | [Projects](projects.html) |
