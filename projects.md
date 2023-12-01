@@ -26,6 +26,8 @@ The schematic for the board was made painstakingly over hours using KiCAD. I cre
 <img src="images/slideman.png" alt="breadboard" width="400"/>
 <img src="images/pcb.png" alt="pcb" width="550"/>
 
+---
+
 ### Collapsible/Portable Solar Array
 
 This project, done during Spring and Fall 2023, was done with a team of student engineers I recruited and directed so we could build a mechanical structure housing joints that allow the four 100-W solar panels to join together on a hand truck.
