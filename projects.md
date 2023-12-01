@@ -77,3 +77,5 @@ Continuing the project, I added more functionalities like predicting the correct
     </div>
 </div>
 <br>
+
+---
